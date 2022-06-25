@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ericasayu&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=EE82EE&bg_color=000000" alt="Érica Sayuri Koizumi github stats" /> 
-  <img width="41%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericasayu&layout=compact&hide_border=true&title_color=00FFFF&text_color=EE82EE&bg_color=000000" />
+  <img width="49%" height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericasayu&layout=compact&hide_border=true&title_color=00FFFF&text_color=EE82EE&bg_color=000000" />
 </div>
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ericasayu&theme=gotham&hide_border=true&area=true)
