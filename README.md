@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Érica+Sayuri+Koizumi;Tenho+31+anos;Sou+do+Brasil,+SP;Eu+estudo+no+bootcamp+Santander+através+da+DIO;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE82EE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Érica+Sayuri+Koizumi;Tenho+32+anos;Sou+do+Brasil,+SP;Eu+estudo+no+bootcamp+Santander+através+da+DIO;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 
 
